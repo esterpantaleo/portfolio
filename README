@@ -1,5 +1,9 @@
 This repo contains part of the code (in MATLAB and Mathematica) used to generate results in paper http://arxiv.org/pdf/1004.4272.pdf published in Quantitative Finance.
 
+Ester Pantaleo, Michele Tumminello, Fabrizio Lillo, and Rosario N. Mantegna "When do improved covariance matrix estimators enhance
+portfolio optimization? An empirical comparative study of nine
+estimators" Quantitative Finance, Volume 11, Issue 7, 2011 
+
 Folder data contains part of the data used in the same paper.
 
 
